@@ -1,1 +1,4 @@
-cmd.sh
+*
+!a.exe
+!a.txt
+!README.md
